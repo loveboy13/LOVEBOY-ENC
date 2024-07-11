@@ -21,14 +21,14 @@ pip install bs4
 
 pkg install git
 
-rm -rf LOVEBOYwarking
+rm -rf LOVEBOY-ENC
 
-git clone https://github.com/loveboy13/LOVEBOYwarking.git
+git clone https://github.com/loveboy13/LOVEBOY-ENC.git
 
-cd LOVEBOYwarking
+cd LOVEBOY-ENC
 
 chmod +x *
 
 ls
 
-python LOVEBOY.py
+python LOVEBOY-ENC-SE.py
